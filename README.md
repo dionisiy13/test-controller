@@ -31,7 +31,9 @@ class TestController {
 ```
 
 Реализовать логику для таких URL:
+```
 / => IndexController, indexAction
 /news => NewsController, indexAction
 /news/edit => NewsController, editAction
 /albums => AlbumsController, indexAction
+```
